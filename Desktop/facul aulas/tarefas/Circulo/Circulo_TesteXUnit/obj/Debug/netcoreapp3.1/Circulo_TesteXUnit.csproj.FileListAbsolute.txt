@@ -1,0 +1,4 @@
+C:\Users\nycol\Desktop\facul aulas\tarefas\Circulo\Circulo_TesteXUnit\obj\Debug\netcoreapp3.1\Circulo_TesteXUnit.csprojAssemblyReference.cache
+C:\Users\nycol\Desktop\facul aulas\tarefas\Circulo\Circulo_TesteXUnit\obj\Debug\netcoreapp3.1\Circulo_TesteXUnit.AssemblyInfoInputs.cache
+C:\Users\nycol\Desktop\facul aulas\tarefas\Circulo\Circulo_TesteXUnit\obj\Debug\netcoreapp3.1\Circulo_TesteXUnit.AssemblyInfo.cs
+C:\Users\nycol\Desktop\facul aulas\tarefas\Circulo\Circulo_TesteXUnit\obj\Debug\netcoreapp3.1\Circulo_TesteXUnit.csproj.CoreCompileInputs.cache
